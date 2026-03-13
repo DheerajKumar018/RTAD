@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Model files (tracked by Git LFS if needed)
+*.pkl
+
+# Data files (tracked by Git LFS if needed)
+*.csv
+
+# Node.js (for dashboard)
+node_modules/
+npm-debug.log
+.env
+
+# Streamlit cache
+.streamlit/
+
+# Misc
+*.swp
+*.bak
